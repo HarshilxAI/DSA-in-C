@@ -36,4 +36,5 @@ void main()
     printf("\nAfter sorting array elements are - \n");
     printArr(a, n);
     getch();
+
 }
